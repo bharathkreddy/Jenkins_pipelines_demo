@@ -6,7 +6,7 @@ pipeline {
 	stages {
     	stage("Checkout") {   
         	steps {               	 
-            	git url: 'https://github.com/nagenn/testpipe'          	 
+            	git url: 'https://github.com/bharathkreddy/springboot_jenkins_pipeline'          	 
            	 
         	}    
     	}
