@@ -11,7 +11,7 @@ pipeline {
             			echo 'Stage 2 done brk'               	 
         			}     
     		}
-		stage('First Stage') {
+		stage('Third Stage') {
         			steps {               	 
             			echo 'stage 3 done brk'          
         			}     	 
